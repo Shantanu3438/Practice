@@ -1,0 +1,251 @@
+ 
+The Shawshank Redemption 
+The Godfather 
+The Dark Knight 
+The Godfather Part II 
+12 Angry Men 
+Schindler's List 
+The Lord of the Rings: The Return of the King 
+Pulp Fiction 
+The Lord of the Rings: The Fellowship of the Ring 
+Il buono, il brutto, il cattivo 
+Spider-Man: Across the Spider-Verse 
+Forrest Gump 
+Fight Club 
+The Lord of the Rings: The Two Towers 
+Inception 
+Star Wars: Episode V - The Empire Strikes Back 
+The Matrix 
+GoodFellas 
+One Flew Over the Cuckoo's Nest 
+Se7en 
+It's a Wonderful Life 
+Shichinin no samurai 
+The Silence of the Lambs 
+Saving Private Ryan 
+Cidade de Deus 
+Interstellar 
+La vita è bella 
+The Green Mile 
+Star Wars 
+Terminator 2: Judgment Day 
+Back to the Future 
+Sen to Chihiro no kamikakushi 
+The Pianist 
+Psycho 
+Gisaengchung 
+Léon 
+The Lion King 
+Gladiator 
+American History X 
+The Departed 
+Whiplash 
+The Prestige 
+The Usual Suspects 
+Casablanca 
+Hotaru no haka 
+Seppuku 
+The Intouchables 
+Modern Times 
+Once Upon a Time in the West 
+Nuovo Cinema Paradiso 
+Rear Window 
+Alien 
+City Lights 
+Apocalypse Now 
+Memento 
+Django Unchained 
+Raiders of the Lost Ark 
+WALL·E 
+The Lives of Others 
+Sunset Blvd. 
+Paths of Glory 
+Avengers: Infinity War 
+The Shining 
+The Great Dictator 
+Witness for the Prosecution 
+Spider-Man: Into the Spider-Verse 
+Aliens 
+American Beauty 
+The Dark Knight Rises 
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb 
+Inglourious Basterds 
+Oldeuboi 
+Coco 
+Amadeus 
+Toy Story 
+Braveheart 
+Das Boot 
+Joker 
+Avengers: Endgame 
+Mononoke-hime 
+Good Will Hunting 
+Once Upon a Time in America 
+Kimi no na wa. 
+3 Idiots 
+Singin' in the Rain 
+Tengoku to jigoku 
+Requiem for a Dream 
+Capharnaüm 
+Toy Story 3 
+Star Wars: Episode VI - Return of the Jedi 
+Idi i smotri 
+Eternal Sunshine of the Spotless Mind 
+2001: A Space Odyssey 
+Jagten 
+Reservoir Dogs 
+Lawrence of Arabia 
+Citizen Kane 
+M - Eine Stadt sucht einen Mörder 
+Ikiru 
+North by Northwest 
+The Apartment 
+Vertigo 
+Le fabuleux destin d'Amélie Poulain 
+Double Indemnity 
+A Clockwork Orange 
+Hamilton 
+Full Metal Jacket 
+Scarface 
+Incendies 
+Heat 
+Up 
+To Kill a Mockingbird 
+The Sting 
+Jodaeiye Nader az Simin 
+Metropolis 
+L.A. Confidential 
+Die Hard 
+Indiana Jones and the Last Crusade 
+Snatch 
+Taxi Driver 
+Ladri di biciclette 
+Taare Zameen Par 
+1917 
+Dangal 
+Der Untergang 
+Top Gun: Maverick 
+Per qualche dollaro in più 
+Batman Begins 
+The Kid 
+Some Like It Hot 
+The Father 
+The Wolf of Wall Street 
+All About Eve 
+Green Book 
+Judgment at Nuremberg 
+Ran 
+The Truman Show 
+Casino 
+There Will Be Blood 
+Pan's Labyrinth 
+Unforgiven 
+Shutter Island 
+The Sixth Sense 
+Jurassic Park 
+A Beautiful Mind 
+Yôjinbô 
+The Treasure of the Sierra Madre 
+Monty Python and the Holy Grail 
+No Country for Old Men 
+Kill Bill: Vol. 1 
+The Great Escape 
+Rashômon 
+The Thing 
+Finding Nemo 
+Spider-Man: No Way Home 
+The Elephant Man 
+Chinatown 
+Raging Bull 
+V for Vendetta 
+Gone with the Wind 
+Dial M for Murder 
+Inside Out 
+Lock, Stock and Two Smoking Barrels 
+Hauru no ugoku shiro 
+El secreto de sus ojos 
+Guardians of the Galaxy Vol. 3 
+Three Billboards Outside Ebbing, Missouri 
+Prisoners 
+Trainspotting 
+The Bridge on the River Kwai 
+Fargo 
+Warrior 
+Gran Torino 
+Catch Me If You Can 
+Tonari no Totoro 
+Million Dollar Baby 
+Bacheha-Ye aseman 
+The Gold Rush 
+Blade Runner 
+Klaus 
+Harry Potter and the Deathly Hallows: Part 2 
+12 Years a Slave 
+Before Sunrise 
+The Grand Budapest Hotel 
+Ben-Hur 
+On the Waterfront 
+Gone Girl 
+The General 
+Barry Lyndon 
+Smultronstället 
+In the Name of the Father 
+The Deer Hunter 
+Hacksaw Ridge 
+The Third Man 
+Le salaire de la peur 
+Salinui chueok 
+Sherlock Jr. 
+Relatos salvajes 
+Mr. Smith Goes to Washington 
+Mad Max: Fury Road 
+Mary and Max. 
+Dead Poets Society 
+How to Train Your Dragon 
+Monsters, Inc. 
+Det sjunde inseglet 
+Jaws 
+Room 
+The Big Lebowski 
+Tôkyô monogatari 
+Ford v Ferrari 
+La passion de Jeanne d'Arc 
+Hotel Rwanda 
+Rocky 
+Ratatouille 
+Platoon 
+Spotlight 
+Logan 
+The Terminator 
+Jai Bhim 
+Rush 
+Stand by Me 
+Before Sunset 
+Network 
+Into the Wild 
+The Wizard of Oz 
+The Best Years of Our Lives 
+The Exorcist 
+La haine 
+The Incredibles 
+To Be or Not to Be 
+Groundhog Day 
+Pirates of the Caribbean: The Curse of the Black Pearl 
+La battaglia di Algeri 
+The Grapes of Wrath 
+Babam ve Oglum 
+Hachi: A Dog's Tale 
+Pather Panchali 
+Ah-ga-ssi 
+Amores perros 
+Rebecca 
+Cool Hand Luke 
+The Sound of Music 
+It Happened One Night 
+Les quatre cents coups 
+Persona 
+The Help 
+Life of Brian 
+The Iron Giant 
+Aladdin 
+Dances with Wolves
