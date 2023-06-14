@@ -94,8 +94,8 @@ Eternal Sunshine of the Spotless Mind
 2001: A Space Odyssey 
 Jagten 
 Reservoir Dogs 
-Lawrence of Arabia 
 Citizen Kane 
+Lawrence of Arabia 
 M - Eine Stadt sucht einen Mörder 
 Ikiru 
 North by Northwest 
@@ -104,8 +104,8 @@ Vertigo
 Le fabuleux destin d'Amélie Poulain 
 Double Indemnity 
 A Clockwork Orange 
-Hamilton 
 Full Metal Jacket 
+Hamilton 
 Scarface 
 Incendies 
 Heat 
@@ -201,8 +201,8 @@ Mr. Smith Goes to Washington
 Mad Max: Fury Road 
 Mary and Max. 
 Dead Poets Society 
-How to Train Your Dragon 
 Monsters, Inc. 
+How to Train Your Dragon 
 Det sjunde inseglet 
 Jaws 
 Room 
