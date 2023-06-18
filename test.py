@@ -1,6 +1,2 @@
-file = open('test.txt', 'w')
-file.write('hello world')
-file.close()
-readFile = open('test.txt', 'r')
-content = readFile.read()
-print(content)
+movies = ['a', 'b', 'c']
+print(len(movies))

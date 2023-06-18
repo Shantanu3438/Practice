@@ -1,36 +1,44 @@
 from bs4 import BeautifulSoup as bs
 import requests
 import files
-from qbittorrent import Client
+import qbittorrentapi
 
-qb = Client("http://127.0.0.1:8080/")
-qb.login("admin", "adminadmin")
+conn_info = dict(
+    host="localhost",
+    port=8080,
+    username="admin",
+    password="adminadmin",
+)
+qbt_client = qbittorrentapi.Client(**conn_info)
+qbt_client.auth_log_in()
 
-site = requests.get("https://www.imdb.com/chart/toptv/?ref_=nv_tvv_250")
-print(site.text)
+site = requests.get("https://www.imdb.com/chart/top/?ref_=nv_mv_250")
 siteSoup = bs(site.text, 'html.parser')
 releaseDate = siteSoup.find_all('span', class_ = 'secondaryInfo')
 movieTitle = siteSoup.select('td a', class_ = 'titleColumn')
-movieList = open('tv.txt', 'w')
-for movie in movieTitle:
-    #print(movie.text)
-    movieList.write(movie.text)
+print(len(movieTitle))
+movieList = open('movieList.txt', 'w')
+releaseDateList = open('releaseDate.txt', 'w')
+for i in range(len(releaseDate)):
+    #fullTitle = movieTitle[i].text + releaseDate[i].text
+    movieList.write(movieTitle[i].text)
+    releaseDateList.write(releaseDate[i].text + '\n')
+
     
 movieList.close()
 
-movieFile = open('tv.txt')
+movieFile = open('movieList.txt')
 movieList = movieFile.read().splitlines()
 
-for movie in movieList:
+""" for movie in movieList:
     if movie == ' ':
-        print('empty')
         continue
     movieLink = "https://pbays.top/search/" + movie + "/1/99/0"
-    print(movieLink)
     movieSite = requests.get(movieLink)
     movieSoup = bs(movieSite.text, 'html.parser')
     movieMagnetLink = movieSoup.find("a", {'title' : 'Download this torrent using magnet'})
-    print(movieMagnetLink.attrs['href'])
-    magnetLink = movieMagnetLink.attrs['href']
-    #print(magnetLink)
-    qb.download_from_link(magnetLink)
+    if movieMagnetLink is not None:
+        magnetLink = movieMagnetLink.attrs['href']
+        print(magnetLink)
+        qbt_client.torrents_add(magnetLink)
+qbt_client.auth_log_out() """
