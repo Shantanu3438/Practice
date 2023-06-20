@@ -25,7 +25,7 @@ The Silence of the Lambs
 Saving Private Ryan 
 Cidade de Deus 
 Interstellar 
-La vita è bella 
+La vita Ã¨ bella 
 The Green Mile 
 Star Wars 
 Terminator 2: Judgment Day 
@@ -34,7 +34,7 @@ Sen to Chihiro no kamikakushi
 The Pianist 
 Psycho 
 Gisaengchung 
-Léon 
+LÃ©on 
 The Lion King 
 Gladiator 
 American History X 
@@ -56,7 +56,7 @@ Apocalypse Now
 Memento 
 Django Unchained 
 Raiders of the Lost Ark 
-WALL·E 
+WALLÂ·E 
 The Lives of Others 
 Sunset Blvd. 
 Paths of Glory 
@@ -86,7 +86,7 @@ Kimi no na wa.
 Singin' in the Rain 
 Tengoku to jigoku 
 Requiem for a Dream 
-Capharnaüm 
+CapharnaÃ¼m 
 Toy Story 3 
 Star Wars: Episode VI - Return of the Jedi 
 Idi i smotri 
@@ -96,12 +96,12 @@ Jagten
 Reservoir Dogs 
 Lawrence of Arabia 
 Citizen Kane 
-M - Eine Stadt sucht einen Mörder 
+M - Eine Stadt sucht einen MÃ¶rder 
 Ikiru 
 North by Northwest 
 The Apartment 
 Vertigo 
-Le fabuleux destin d'Amélie Poulain 
+Le fabuleux destin d'AmÃ©lie Poulain 
 Double Indemnity 
 A Clockwork Orange 
 Full Metal Jacket 
@@ -118,8 +118,8 @@ L.A. Confidential
 Die Hard 
 Indiana Jones and the Last Crusade 
 Snatch 
-Taxi Driver 
 Ladri di biciclette 
+Taxi Driver 
 Taare Zameen Par 
 1917 
 Dangal 

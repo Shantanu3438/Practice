@@ -30,7 +30,7 @@ movieList.close()
 movieFile = open('movieList.txt')
 movieList = movieFile.read().splitlines()
 
-""" for movie in movieList:
+for movie in movieList:
     if movie == ' ':
         continue
     movieLink = "https://pbays.top/search/" + movie + "/1/99/0"
@@ -41,4 +41,4 @@ movieList = movieFile.read().splitlines()
         magnetLink = movieMagnetLink.attrs['href']
         print(magnetLink)
         qbt_client.torrents_add(magnetLink)
-qbt_client.auth_log_out() """
+qbt_client.auth_log_out()
