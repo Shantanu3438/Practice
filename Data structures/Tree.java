@@ -78,11 +78,30 @@ class BinarySearchTree {
             findLargestNodeData(root.leftNode);
         return root.data;
     }
+
+    void invert(Node root) {
+        if(root != null){
+            invert(root.leftNode);
+            invert(root.rightNode);
+            Node temp;
+            temp = root.leftNode;
+            root.leftNode = root.rightNode;
+            root.rightNode = temp;
+        }
+    }
 }
 
 class Tree {
     public static void main(String args[]) {
         BinarySearchTree bst = new BinarySearchTree();
+        bst.insert(15);
+        bst.insert(11);
+        bst.insert(20);
+        bst.insert(9);
+        bst.insert(14);
+        bst.insert(17);
+        bst.insert(25);
+        bst.invert(bst.root);
 	    bst.inorder(bst.root);
     }
 }
