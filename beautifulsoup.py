@@ -15,7 +15,8 @@ qbt_client.auth_log_in()
 site = requests.get("https://www.imdb.com/chart/top/?ref_=nv_mv_250")
 siteSoup = bs(site.text, 'html.parser')
 releaseDate = siteSoup.find_all('span', class_ = 'secondaryInfo')
-movieTitle = siteSoup.select('td a', class_ = 'titleColumn')
+movieTitle = siteSoup.select('h3', class_ = 'ipc-title__text')
+print(movieTitle)
 movieList = open('movieList.txt', 'w')
 releaseDateList = open('releaseDate.txt', 'w')
 for i in range(len(releaseDate)):
@@ -30,6 +31,7 @@ movieFile = open('movieList.txt')
 movieList = movieFile.read().splitlines()
 
 for movie in movieList:
+for movie in movieList:
     if movie == ' ':
         continue
     movieLink = "https://pbays.top/search/" + movie + "/1/99/0"
@@ -38,6 +40,5 @@ for movie in movieList:
     movieMagnetLink = movieSoup.find("a", {'title' : 'Download this torrent using magnet'})
     if movieMagnetLink is not None:
         magnetLink = movieMagnetLink.attrs['href']
-        print(magnetLink)
         qbt_client.torrents_add(magnetLink)
 qbt_client.auth_log_out()
