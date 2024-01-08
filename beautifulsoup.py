@@ -31,7 +31,6 @@ movieFile = open('movieList.txt')
 movieList = movieFile.read().splitlines()
 
 for movie in movieList:
-for movie in movieList:
     if movie == ' ':
         continue
     movieLink = "https://pbays.top/search/" + movie + "/1/99/0"
